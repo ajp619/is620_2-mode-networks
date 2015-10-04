@@ -1,0 +1,183 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="CHARLOTTE" label="CHARLOTTE" />
+      <node id="FLORA" label="FLORA" />
+      <node id="BRENDA" label="BRENDA" />
+      <node id="MYRNA" label="MYRNA" />
+      <node id="PEARL" label="PEARL" />
+      <node id="EVELYN" label="EVELYN" />
+      <node id="THERESA" label="THERESA" />
+      <node id="FRANCES" label="FRANCES" />
+      <node id="LAURA" label="LAURA" />
+      <node id="VERNE" label="VERNE" />
+      <node id="NORA" label="NORA" />
+      <node id="KATHERINE" label="KATHERINE" />
+      <node id="ELEANOR" label="ELEANOR" />
+      <node id="HELEN" label="HELEN" />
+      <node id="DOROTHY" label="DOROTHY" />
+      <node id="OLIVIA" label="OLIVIA" />
+      <node id="SYLVIA" label="SYLVIA" />
+      <node id="RUTH" label="RUTH" />
+    </nodes>
+    <edges>
+      <edge id="0" source="CHARLOTTE" target="CHARLOTTE" />
+      <edge id="1" source="CHARLOTTE" target="BRENDA" />
+      <edge id="2" source="CHARLOTTE" target="VERNE" />
+      <edge id="3" source="CHARLOTTE" target="EVELYN" />
+      <edge id="4" source="CHARLOTTE" target="THERESA" />
+      <edge id="5" source="CHARLOTTE" target="FRANCES" />
+      <edge id="6" source="CHARLOTTE" target="LAURA" />
+      <edge id="7" source="CHARLOTTE" target="ELEANOR" />
+      <edge id="8" source="CHARLOTTE" target="NORA" />
+      <edge id="9" source="CHARLOTTE" target="HELEN" />
+      <edge id="10" source="CHARLOTTE" target="SYLVIA" />
+      <edge id="11" source="CHARLOTTE" target="RUTH" />
+      <edge id="12" source="FLORA" target="FLORA" />
+      <edge id="13" source="FLORA" target="MYRNA" />
+      <edge id="14" source="FLORA" target="PEARL" />
+      <edge id="15" source="FLORA" target="EVELYN" />
+      <edge id="16" source="FLORA" target="THERESA" />
+      <edge id="17" source="FLORA" target="VERNE" />
+      <edge id="18" source="FLORA" target="NORA" />
+      <edge id="19" source="FLORA" target="KATHERINE" />
+      <edge id="20" source="FLORA" target="HELEN" />
+      <edge id="21" source="FLORA" target="DOROTHY" />
+      <edge id="22" source="FLORA" target="OLIVIA" />
+      <edge id="23" source="FLORA" target="SYLVIA" />
+      <edge id="24" source="FLORA" target="RUTH" />
+      <edge id="25" source="BRENDA" target="MYRNA" />
+      <edge id="26" source="BRENDA" target="BRENDA" />
+      <edge id="27" source="BRENDA" target="PEARL" />
+      <edge id="28" source="BRENDA" target="EVELYN" />
+      <edge id="29" source="BRENDA" target="THERESA" />
+      <edge id="30" source="BRENDA" target="FRANCES" />
+      <edge id="31" source="BRENDA" target="LAURA" />
+      <edge id="32" source="BRENDA" target="VERNE" />
+      <edge id="33" source="BRENDA" target="ELEANOR" />
+      <edge id="34" source="BRENDA" target="KATHERINE" />
+      <edge id="35" source="BRENDA" target="HELEN" />
+      <edge id="36" source="BRENDA" target="DOROTHY" />
+      <edge id="37" source="BRENDA" target="NORA" />
+      <edge id="38" source="BRENDA" target="SYLVIA" />
+      <edge id="39" source="BRENDA" target="RUTH" />
+      <edge id="40" source="MYRNA" target="VERNE" />
+      <edge id="41" source="MYRNA" target="MYRNA" />
+      <edge id="42" source="MYRNA" target="PEARL" />
+      <edge id="43" source="MYRNA" target="EVELYN" />
+      <edge id="44" source="MYRNA" target="THERESA" />
+      <edge id="45" source="MYRNA" target="FRANCES" />
+      <edge id="46" source="MYRNA" target="LAURA" />
+      <edge id="47" source="MYRNA" target="ELEANOR" />
+      <edge id="48" source="MYRNA" target="NORA" />
+      <edge id="49" source="MYRNA" target="KATHERINE" />
+      <edge id="50" source="MYRNA" target="HELEN" />
+      <edge id="51" source="MYRNA" target="DOROTHY" />
+      <edge id="52" source="MYRNA" target="OLIVIA" />
+      <edge id="53" source="MYRNA" target="SYLVIA" />
+      <edge id="54" source="MYRNA" target="RUTH" />
+      <edge id="55" source="PEARL" target="VERNE" />
+      <edge id="56" source="PEARL" target="PEARL" />
+      <edge id="57" source="PEARL" target="EVELYN" />
+      <edge id="58" source="PEARL" target="THERESA" />
+      <edge id="59" source="PEARL" target="FRANCES" />
+      <edge id="60" source="PEARL" target="LAURA" />
+      <edge id="61" source="PEARL" target="ELEANOR" />
+      <edge id="62" source="PEARL" target="NORA" />
+      <edge id="63" source="PEARL" target="KATHERINE" />
+      <edge id="64" source="PEARL" target="HELEN" />
+      <edge id="65" source="PEARL" target="DOROTHY" />
+      <edge id="66" source="PEARL" target="OLIVIA" />
+      <edge id="67" source="PEARL" target="SYLVIA" />
+      <edge id="68" source="PEARL" target="RUTH" />
+      <edge id="69" source="EVELYN" target="VERNE" />
+      <edge id="70" source="EVELYN" target="EVELYN" />
+      <edge id="71" source="EVELYN" target="THERESA" />
+      <edge id="72" source="EVELYN" target="FRANCES" />
+      <edge id="73" source="EVELYN" target="LAURA" />
+      <edge id="74" source="EVELYN" target="NORA" />
+      <edge id="75" source="EVELYN" target="KATHERINE" />
+      <edge id="76" source="EVELYN" target="ELEANOR" />
+      <edge id="77" source="EVELYN" target="HELEN" />
+      <edge id="78" source="EVELYN" target="DOROTHY" />
+      <edge id="79" source="EVELYN" target="OLIVIA" />
+      <edge id="80" source="EVELYN" target="SYLVIA" />
+      <edge id="81" source="EVELYN" target="RUTH" />
+      <edge id="82" source="THERESA" target="VERNE" />
+      <edge id="83" source="THERESA" target="THERESA" />
+      <edge id="84" source="THERESA" target="FRANCES" />
+      <edge id="85" source="THERESA" target="LAURA" />
+      <edge id="86" source="THERESA" target="NORA" />
+      <edge id="87" source="THERESA" target="KATHERINE" />
+      <edge id="88" source="THERESA" target="ELEANOR" />
+      <edge id="89" source="THERESA" target="HELEN" />
+      <edge id="90" source="THERESA" target="DOROTHY" />
+      <edge id="91" source="THERESA" target="OLIVIA" />
+      <edge id="92" source="THERESA" target="SYLVIA" />
+      <edge id="93" source="THERESA" target="RUTH" />
+      <edge id="94" source="FRANCES" target="VERNE" />
+      <edge id="95" source="FRANCES" target="FRANCES" />
+      <edge id="96" source="FRANCES" target="LAURA" />
+      <edge id="97" source="FRANCES" target="ELEANOR" />
+      <edge id="98" source="FRANCES" target="NORA" />
+      <edge id="99" source="FRANCES" target="KATHERINE" />
+      <edge id="100" source="FRANCES" target="HELEN" />
+      <edge id="101" source="FRANCES" target="DOROTHY" />
+      <edge id="102" source="FRANCES" target="SYLVIA" />
+      <edge id="103" source="FRANCES" target="RUTH" />
+      <edge id="104" source="LAURA" target="VERNE" />
+      <edge id="105" source="LAURA" target="LAURA" />
+      <edge id="106" source="LAURA" target="ELEANOR" />
+      <edge id="107" source="LAURA" target="KATHERINE" />
+      <edge id="108" source="LAURA" target="HELEN" />
+      <edge id="109" source="LAURA" target="DOROTHY" />
+      <edge id="110" source="LAURA" target="NORA" />
+      <edge id="111" source="LAURA" target="SYLVIA" />
+      <edge id="112" source="LAURA" target="RUTH" />
+      <edge id="113" source="VERNE" target="VERNE" />
+      <edge id="114" source="VERNE" target="ELEANOR" />
+      <edge id="115" source="VERNE" target="NORA" />
+      <edge id="116" source="VERNE" target="KATHERINE" />
+      <edge id="117" source="VERNE" target="HELEN" />
+      <edge id="118" source="VERNE" target="DOROTHY" />
+      <edge id="119" source="VERNE" target="OLIVIA" />
+      <edge id="120" source="VERNE" target="SYLVIA" />
+      <edge id="121" source="VERNE" target="RUTH" />
+      <edge id="122" source="NORA" target="ELEANOR" />
+      <edge id="123" source="NORA" target="NORA" />
+      <edge id="124" source="NORA" target="KATHERINE" />
+      <edge id="125" source="NORA" target="HELEN" />
+      <edge id="126" source="NORA" target="DOROTHY" />
+      <edge id="127" source="NORA" target="OLIVIA" />
+      <edge id="128" source="NORA" target="SYLVIA" />
+      <edge id="129" source="NORA" target="RUTH" />
+      <edge id="130" source="KATHERINE" target="ELEANOR" />
+      <edge id="131" source="KATHERINE" target="KATHERINE" />
+      <edge id="132" source="KATHERINE" target="HELEN" />
+      <edge id="133" source="KATHERINE" target="DOROTHY" />
+      <edge id="134" source="KATHERINE" target="OLIVIA" />
+      <edge id="135" source="KATHERINE" target="SYLVIA" />
+      <edge id="136" source="KATHERINE" target="RUTH" />
+      <edge id="137" source="ELEANOR" target="ELEANOR" />
+      <edge id="138" source="ELEANOR" target="HELEN" />
+      <edge id="139" source="ELEANOR" target="DOROTHY" />
+      <edge id="140" source="ELEANOR" target="SYLVIA" />
+      <edge id="141" source="ELEANOR" target="RUTH" />
+      <edge id="142" source="HELEN" target="HELEN" />
+      <edge id="143" source="HELEN" target="DOROTHY" />
+      <edge id="144" source="HELEN" target="OLIVIA" />
+      <edge id="145" source="HELEN" target="SYLVIA" />
+      <edge id="146" source="HELEN" target="RUTH" />
+      <edge id="147" source="DOROTHY" target="DOROTHY" />
+      <edge id="148" source="DOROTHY" target="OLIVIA" />
+      <edge id="149" source="DOROTHY" target="SYLVIA" />
+      <edge id="150" source="DOROTHY" target="RUTH" />
+      <edge id="151" source="OLIVIA" target="OLIVIA" />
+      <edge id="152" source="OLIVIA" target="SYLVIA" />
+      <edge id="153" source="OLIVIA" target="RUTH" />
+      <edge id="154" source="SYLVIA" target="SYLVIA" />
+      <edge id="155" source="SYLVIA" target="RUTH" />
+      <edge id="156" source="RUTH" target="RUTH" />
+    </edges>
+  </graph>
+</gexf>

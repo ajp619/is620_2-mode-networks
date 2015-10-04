@@ -1,0 +1,102 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="E11" label="E11" />
+      <node id="E10" label="E10" />
+      <node id="E13" label="E13" />
+      <node id="E12" label="E12" />
+      <node id="E14" label="E14" />
+      <node id="E9" label="E9" />
+      <node id="E8" label="E8" />
+      <node id="E5" label="E5" />
+      <node id="E4" label="E4" />
+      <node id="E7" label="E7" />
+      <node id="E6" label="E6" />
+      <node id="E1" label="E1" />
+      <node id="E3" label="E3" />
+      <node id="E2" label="E2" />
+    </nodes>
+    <edges>
+      <edge id="0" source="E11" target="E11" />
+      <edge id="1" source="E11" target="E10" />
+      <edge id="2" source="E11" target="E13" />
+      <edge id="3" source="E11" target="E12" />
+      <edge id="4" source="E11" target="E14" />
+      <edge id="5" source="E11" target="E9" />
+      <edge id="6" source="E11" target="E8" />
+      <edge id="7" source="E11" target="E7" />
+      <edge id="8" source="E11" target="E6" />
+      <edge id="9" source="E10" target="E10" />
+      <edge id="10" source="E10" target="E13" />
+      <edge id="11" source="E10" target="E12" />
+      <edge id="12" source="E10" target="E14" />
+      <edge id="13" source="E10" target="E9" />
+      <edge id="14" source="E10" target="E8" />
+      <edge id="15" source="E10" target="E7" />
+      <edge id="16" source="E10" target="E6" />
+      <edge id="17" source="E13" target="E13" />
+      <edge id="18" source="E13" target="E12" />
+      <edge id="19" source="E13" target="E14" />
+      <edge id="20" source="E13" target="E9" />
+      <edge id="21" source="E13" target="E8" />
+      <edge id="22" source="E13" target="E7" />
+      <edge id="23" source="E13" target="E6" />
+      <edge id="24" source="E12" target="E12" />
+      <edge id="25" source="E12" target="E14" />
+      <edge id="26" source="E12" target="E9" />
+      <edge id="27" source="E12" target="E8" />
+      <edge id="28" source="E12" target="E7" />
+      <edge id="29" source="E12" target="E6" />
+      <edge id="30" source="E14" target="E14" />
+      <edge id="31" source="E14" target="E9" />
+      <edge id="32" source="E14" target="E8" />
+      <edge id="33" source="E14" target="E7" />
+      <edge id="34" source="E14" target="E6" />
+      <edge id="35" source="E9" target="E9" />
+      <edge id="36" source="E9" target="E8" />
+      <edge id="37" source="E9" target="E5" />
+      <edge id="38" source="E9" target="E4" />
+      <edge id="39" source="E9" target="E7" />
+      <edge id="40" source="E9" target="E6" />
+      <edge id="41" source="E9" target="E1" />
+      <edge id="42" source="E9" target="E3" />
+      <edge id="43" source="E9" target="E2" />
+      <edge id="44" source="E8" target="E8" />
+      <edge id="45" source="E8" target="E5" />
+      <edge id="46" source="E8" target="E4" />
+      <edge id="47" source="E8" target="E7" />
+      <edge id="48" source="E8" target="E6" />
+      <edge id="49" source="E8" target="E1" />
+      <edge id="50" source="E8" target="E3" />
+      <edge id="51" source="E8" target="E2" />
+      <edge id="52" source="E5" target="E5" />
+      <edge id="53" source="E5" target="E4" />
+      <edge id="54" source="E5" target="E7" />
+      <edge id="55" source="E5" target="E6" />
+      <edge id="56" source="E5" target="E1" />
+      <edge id="57" source="E5" target="E3" />
+      <edge id="58" source="E5" target="E2" />
+      <edge id="59" source="E4" target="E4" />
+      <edge id="60" source="E4" target="E7" />
+      <edge id="61" source="E4" target="E6" />
+      <edge id="62" source="E4" target="E1" />
+      <edge id="63" source="E4" target="E3" />
+      <edge id="64" source="E4" target="E2" />
+      <edge id="65" source="E7" target="E7" />
+      <edge id="66" source="E7" target="E6" />
+      <edge id="67" source="E7" target="E1" />
+      <edge id="68" source="E7" target="E3" />
+      <edge id="69" source="E7" target="E2" />
+      <edge id="70" source="E6" target="E6" />
+      <edge id="71" source="E6" target="E1" />
+      <edge id="72" source="E6" target="E3" />
+      <edge id="73" source="E6" target="E2" />
+      <edge id="74" source="E1" target="E1" />
+      <edge id="75" source="E1" target="E3" />
+      <edge id="76" source="E1" target="E2" />
+      <edge id="77" source="E3" target="E3" />
+      <edge id="78" source="E3" target="E2" />
+      <edge id="79" source="E2" target="E2" />
+    </edges>
+  </graph>
+</gexf>
